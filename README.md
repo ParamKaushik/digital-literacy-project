@@ -68,5 +68,5 @@ The complete report is included in:
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 This project helped in understanding the importance of digital literacy, building a professional online presence, and practicing safe and responsible use of digital platforms.
