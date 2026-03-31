@@ -1,0 +1,15 @@
+Stay Safe Online Checklist:
+
+- Never share your OTP or PIN with anyone
+- Do not click on unknown or suspicious links
+- Always verify the sender before making payments
+- Use strong and unique passwords
+- Enable two-factor authentication
+- Avoid using public Wi-Fi for financial transactions
+- Check app permissions before installing
+- Regularly update your apps and devices
+- For UPI: Always check payment requests carefully before approving
+- For UPI: Never accept unknown payment collect requests
+
+Report cybercrime at: https://cybercrime.gov.in  
+Helpline: 1930
